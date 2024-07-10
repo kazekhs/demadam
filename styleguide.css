@@ -1,0 +1,17 @@
+:root {
+  --black: rgba(29, 29, 29, 1);
+  --text-light: rgba(29, 29, 29, 0.7);
+  --body-text-font-family: "Readex Pro", Helvetica;
+  --body-text-font-weight: 400;
+  --body-text-font-size: 18px;
+  --body-text-letter-spacing: 0px;
+  --body-text-line-height: normal;
+  --body-text-font-style: normal;
+  --headline-font-family: "Readex Pro", Helvetica;
+  --headline-font-weight: 500;
+  --headline-font-size: 20px;
+  --headline-letter-spacing: 0px;
+  --headline-line-height: normal;
+  --headline-font-style: normal;
+  --variable-collection-red: rgba(177, 50, 55, 1);
+}

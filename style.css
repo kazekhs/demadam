@@ -1,0 +1,1214 @@
+.landing-page {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.landing-page .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1440px;
+  height: 4017px;
+  position: absolute;
+}
+
+.landing-page .overlap {
+  position: absolute;
+  width: 1551px;
+  height: 2812px;
+  top: -25px;
+  left: 0;
+}
+
+.landing-page .layer {
+  position: absolute;
+  width: 1440px;
+  height: 1354px;
+  top: 1458px;
+  left: 0;
+}
+
+.landing-page .hero-section {
+  position: absolute;
+  width: 1392px;
+  height: 950px;
+  top: 0;
+  left: 159px;
+}
+
+.landing-page .overlap-group {
+  position: absolute;
+  height: 938px;
+}
+
+.landing-page .rectangle {
+  position: absolute;
+  width: 904px;
+  height: 913px;
+  top: 25px;
+  left: 377px;
+}
+
+.landing-page .img {
+  position: absolute;
+  width: 828px;
+  height: 861px;
+  top: 25px;
+  left: 453px;
+}
+
+.landing-page .bg-and-photo {
+  position: absolute;
+  width: 878px;
+  height: 804px;
+  top: 0;
+  left: 514px;
+}
+
+.landing-page .element {
+  position: absolute;
+  width: 827px;
+  height: 869px;
+  top: 25px;
+  left: -60px;
+  object-fit: cover;
+}
+
+.landing-page .text {
+  position: absolute;
+  width: 488px;
+  height: 227px;
+  top: 260px;
+  left: 2px;
+}
+
+.landing-page .overlap-group-2 {
+  position: absolute;
+  width: 455px;
+  height: 163px;
+  top: -1px;
+  left: 0;
+}
+
+.landing-page .text-wrapper {
+  position: absolute;
+  width: 252px;
+  top: 0;
+  left: 0;
+  font-family: "Berkshire Swash", Helvetica;
+  font-weight: 400;
+  color: var(--variable-collection-red);
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.landing-page .better-food-better {
+  position: absolute;
+  width: 455px;
+  top: 50px;
+  left: 0;
+  font-family: "Raleway", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 64px;
+  letter-spacing: 0.64px;
+  line-height: 64px;
+}
+
+.landing-page .discover-a-world-of {
+  position: absolute;
+  width: 488px;
+  top: 188px;
+  left: 0;
+  font-family: "Raleway", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+
+.landing-page .searchbar {
+  position: absolute;
+  width: 918px;
+  height: 141px;
+  top: 570px;
+  left: 0;
+}
+
+.landing-page .overlap-2 {
+  position: absolute;
+  width: 275px;
+  height: 39px;
+  top: 0;
+  left: 0;
+}
+
+.landing-page .rectangle-2 {
+  position: absolute;
+  width: 133px;
+  height: 39px;
+  top: 0;
+  left: 0;
+  background-color: #ffffff;
+  border-radius: 15px 15px 0px 0px;
+}
+
+.landing-page .search-tab {
+  position: absolute;
+  width: 236px;
+  height: 36px;
+  top: 3px;
+  left: 39px;
+}
+
+.landing-page .location {
+  position: absolute;
+  height: 36px;
+  top: -1px;
+  left: -10px;
+  font-family: "Raleway", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 2.8px;
+  line-height: 36px;
+  white-space: nowrap;
+}
+
+.landing-page .working-hours {
+  position: absolute;
+  height: 36px;
+  top: -1px;
+  left: 155px;
+  font-family: "Raleway", Helvetica;
+  font-weight: 700;
+  color: #00000099;
+  font-size: 14px;
+  letter-spacing: 2.8px;
+  line-height: 36px;
+  white-space: nowrap;
+}
+
+.landing-page .book-a-table {
+  position: absolute;
+  height: 36px;
+  top: -1px;
+  left: 357px;
+  font-family: "Raleway", Helvetica;
+  font-weight: 700;
+  color: #00000099;
+  font-size: 14px;
+  letter-spacing: 2.8px;
+  line-height: 36px;
+  white-space: nowrap;
+}
+
+.landing-page .overlap-3 {
+  position: absolute;
+  width: 918px;
+  height: 102px;
+  top: 39px;
+  left: 0;
+  background-color: #ffffffcc;
+  border-radius: 0px 20px 20px 20px;
+  box-shadow: 0px 30px 60px -15px #8e90bc26;
+  backdrop-filter: blur(20px) brightness(100%);
+  -webkit-backdrop-filter: blur(20px) brightness(100%);
+}
+
+.landing-page .search-button {
+  position: absolute;
+  width: 54px;
+  height: 54px;
+  top: 24px;
+  left: 827px;
+  background-color: #ffca45;
+  border-radius: 15px;
+}
+
+.landing-page .vector {
+  position: absolute;
+  width: 40px;
+  height: 36px;
+  top: 9px;
+  left: 7px;
+}
+
+.landing-page .search-types {
+  position: absolute;
+  width: 690px;
+  height: 62px;
+  top: 20px;
+  left: 29px;
+}
+
+.landing-page .overlap-4 {
+  position: absolute;
+  width: 165px;
+  height: 62px;
+  top: 0;
+  left: 0;
+}
+
+.landing-page .text-wrapper-2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "Raleway", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 36px;
+  white-space: nowrap;
+}
+
+.landing-page .text-wrapper-3 {
+  position: absolute;
+  top: 26px;
+  left: 0;
+  font-family: "Raleway", Helvetica;
+  font-weight: 600;
+  color: #00000099;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 36px;
+  white-space: nowrap;
+}
+
+.landing-page .overlap-group-3 {
+  position: absolute;
+  width: 149px;
+  height: 62px;
+  top: 0;
+  left: 238px;
+}
+
+.landing-page .overlap-5 {
+  position: absolute;
+  width: 145px;
+  height: 62px;
+  top: 0;
+  left: 533px;
+}
+
+.landing-page .line {
+  left: 203px;
+  position: absolute;
+  width: 2px;
+  height: 46px;
+  top: 10px;
+}
+
+.landing-page .line-2 {
+  left: 498px;
+  position: absolute;
+  width: 2px;
+  height: 46px;
+  top: 10px;
+}
+
+.landing-page .group {
+  position: absolute;
+  width: 13px;
+  height: 16px;
+  top: 34px;
+  left: 170px;
+}
+
+.landing-page .group-2 {
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  top: 35px;
+  left: 465px;
+}
+
+.landing-page .menu {
+  position: absolute;
+  width: 1326px;
+  height: 1030px;
+  top: 867px;
+  left: 74px;
+}
+
+.landing-page .sushi-roll {
+  position: absolute;
+  width: 329px;
+  height: 451px;
+  top: 112px;
+  left: -10px;
+}
+
+.landing-page .grilled-salmon {
+  position: absolute;
+  width: 329px;
+  height: 451px;
+  top: 112px;
+  left: 322px;
+}
+
+.landing-page .tom-yum-fried-rice {
+  position: absolute;
+  width: 329px;
+  height: 451px;
+  top: 112px;
+  left: 653px;
+}
+
+.landing-page .omurice {
+  position: absolute;
+  width: 329px;
+  height: 451px;
+  top: 110px;
+  left: 985px;
+}
+
+.landing-page .bulgogi-rice {
+  position: absolute;
+  width: 329px;
+  height: 451px;
+  top: 596px;
+  left: -10px;
+}
+
+.landing-page .soup-tom-yum {
+  position: absolute;
+  width: 329px;
+  height: 451px;
+  top: 596px;
+  left: 322px;
+}
+
+.landing-page .sop-iga-sapi {
+  position: absolute;
+  width: 329px;
+  height: 451px;
+  top: 596px;
+  left: 653px;
+}
+
+.landing-page .spring-rolls {
+  position: absolute;
+  width: 353px;
+  height: 449px;
+  top: 596px;
+  left: 983px;
+}
+
+.landing-page .text-wrapper-4 {
+  position: absolute;
+  width: 322px;
+  top: 37px;
+  left: 494px;
+  font-family: "Raleway", Helvetica;
+  font-weight: 700;
+  color: var(--black);
+  font-size: 36px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.landing-page .text-wrapper-5 {
+  position: absolute;
+  width: 178px;
+  height: 37px;
+  top: 0;
+  left: 561px;
+  font-family: "Raleway", Helvetica;
+  font-weight: 600;
+  color: #b13237;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.landing-page .testimonial {
+  position: absolute;
+  width: 1347px;
+  height: 544px;
+  top: 2217px;
+  left: 76px;
+}
+
+.landing-page .overlap-group-wrapper {
+  position: absolute;
+  width: 598px;
+  height: 544px;
+  top: 0;
+  left: 0;
+}
+
+.landing-page .overlap-group-4 {
+  position: absolute;
+  width: 638px;
+  height: 584px;
+  top: -16px;
+  left: -16px;
+}
+
+.landing-page .unsplash {
+  position: absolute;
+  width: 638px;
+  height: 288px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.landing-page .unsplash-kfacpdgg {
+  position: absolute;
+  width: 329px;
+  height: 316px;
+  top: 268px;
+  left: 309px;
+  object-fit: cover;
+}
+
+.landing-page .unsplash-mgfpfwszfgm {
+  position: absolute;
+  width: 329px;
+  height: 316px;
+  top: 268px;
+  left: 0;
+  object-fit: cover;
+}
+
+.landing-page .group-3 {
+  position: absolute;
+  width: 720px;
+  height: 150px;
+  top: 76px;
+  left: 614px;
+}
+
+.landing-page .what-our-customers {
+  position: absolute;
+  width: 667px;
+  height: 106px;
+  top: 43px;
+  left: 49px;
+  font-family: "Raleway", Helvetica;
+  font-weight: 700;
+  color: var(--black);
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.landing-page .text-wrapper-6 {
+  position: absolute;
+  width: 413px;
+  height: 37px;
+  top: 0;
+  left: 0;
+  font-family: "Raleway", Helvetica;
+  font-weight: 700;
+  color: #b13237;
+  font-size: 48px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.landing-page .dot-slide {
+  position: absolute;
+  width: 71px;
+  height: 11px;
+  top: 525px;
+  left: 981px;
+}
+
+.landing-page .ellipse {
+  left: 0;
+  background-color: #b13237;
+  position: absolute;
+  width: 11px;
+  height: 11px;
+  top: 0;
+  border-radius: 5.55px/5.31px;
+}
+
+.landing-page .ellipse-2 {
+  left: 30px;
+  background-color: #b1323799;
+  position: absolute;
+  width: 11px;
+  height: 11px;
+  top: 0;
+  border-radius: 5.55px/5.31px;
+}
+
+.landing-page .ellipse-3 {
+  left: 60px;
+  background-color: #b1323733;
+  position: absolute;
+  width: 11px;
+  height: 11px;
+  top: 0;
+  border-radius: 5.55px/5.31px;
+}
+
+.landing-page .frame {
+  position: absolute;
+  width: 684px;
+  height: 210px;
+  top: 248px;
+  left: 663px;
+  overflow: hidden;
+  overflow-x: scroll;
+}
+
+.landing-page .card-testi {
+  left: 0;
+  position: absolute;
+  width: 456px;
+  height: 210px;
+  top: 0;
+}
+
+.landing-page .overlap-group-5 {
+  position: absolute;
+  width: 452px;
+  height: 210px;
+  background-color: #f9f8f2;
+  border-radius: 10px;
+}
+
+.landing-page .text-wrapper-7 {
+  position: absolute;
+  width: 412px;
+  height: 23px;
+  top: 112px;
+  left: 20px;
+  font-family: var(--body-text-font-family);
+  font-weight: var(--body-text-font-weight);
+  color: var(--text-light);
+  font-size: var(--body-text-font-size);
+  letter-spacing: var(--body-text-letter-spacing);
+  line-height: var(--body-text-line-height);
+  font-style: var(--body-text-font-style);
+}
+
+.landing-page .text-wrapper-8 {
+  position: absolute;
+  width: 185px;
+  height: 46px;
+  top: 154px;
+  left: 226px;
+  font-family: var(--body-text-font-family);
+  font-weight: var(--body-text-font-weight);
+  color: var(--text-light);
+  font-size: var(--body-text-font-size);
+  letter-spacing: var(--body-text-letter-spacing);
+  line-height: var(--body-text-line-height);
+  font-style: var(--body-text-font-style);
+}
+
+.landing-page .vector-stroke {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  top: 167px;
+  left: 412px;
+}
+
+.landing-page .user {
+  position: absolute;
+  width: 218px;
+  height: 60px;
+  top: 28px;
+  left: 20px;
+}
+
+.landing-page .group-4 {
+  position: absolute;
+  width: 143px;
+  height: 56px;
+  top: 2px;
+  left: 77px;
+}
+
+.landing-page .text-wrapper-9 {
+  position: absolute;
+  width: 140px;
+  height: 21px;
+  top: 0;
+  left: 1px;
+  font-family: var(--headline-font-family);
+  font-weight: var(--headline-font-weight);
+  color: var(--black);
+  font-size: var(--headline-font-size);
+  letter-spacing: var(--headline-letter-spacing);
+  line-height: var(--headline-line-height);
+  white-space: nowrap;
+  font-style: var(--headline-font-style);
+}
+
+.landing-page .ant-design-star {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  top: 32px;
+  left: 0;
+}
+
+.landing-page .ant-design-star-2 {
+  left: 28px;
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  top: 32px;
+}
+
+.landing-page .ant-design-star-3 {
+  left: 56px;
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  top: 32px;
+}
+
+.landing-page .ant-design-star-4 {
+  left: 84px;
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  top: 32px;
+}
+
+.landing-page .ant-design-star-5 {
+  left: 112px;
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  top: 32px;
+}
+
+.landing-page .profile-avatar {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  top: 0;
+  left: 0;
+}
+
+.landing-page .overlap-wrapper {
+  left: 501px;
+  position: absolute;
+  width: 456px;
+  height: 210px;
+  top: 0;
+}
+
+.landing-page .user-2 {
+  position: absolute;
+  width: 312px;
+  height: 60px;
+  top: 28px;
+  left: 20px;
+}
+
+.landing-page .group-5 {
+  position: absolute;
+  width: 237px;
+  height: 56px;
+  top: 2px;
+  left: 77px;
+}
+
+.landing-page .text-wrapper-10 {
+  position: absolute;
+  width: 234px;
+  height: 21px;
+  top: 0;
+  left: 1px;
+  font-family: var(--headline-font-family);
+  font-weight: var(--headline-font-weight);
+  color: var(--black);
+  font-size: var(--headline-font-size);
+  letter-spacing: var(--headline-letter-spacing);
+  line-height: var(--headline-line-height);
+  white-space: nowrap;
+  font-style: var(--headline-font-style);
+}
+
+.landing-page .div-wrapper {
+  left: 1002px;
+  position: absolute;
+  width: 456px;
+  height: 210px;
+  top: 0;
+}
+
+.landing-page .card-testi-2 {
+  left: 1503px;
+  position: absolute;
+  width: 456px;
+  height: 210px;
+  top: 0;
+}
+
+.landing-page .reserve {
+  position: absolute;
+  width: 1345px;
+  height: 420px;
+  top: 2961px;
+  left: 43px;
+  box-shadow: 2px 5px 12px #00000026;
+}
+
+.landing-page .overlap-6 {
+  position: relative;
+  width: 1417px;
+  height: 543px;
+  top: -13px;
+  left: -20px;
+}
+
+.landing-page .rectangle-wrapper {
+  position: absolute;
+  width: 1345px;
+  height: 420px;
+  top: 13px;
+  left: 20px;
+  background-image: url(./img/rectangle-14.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.landing-page .rectangle-3 {
+  height: 420px;
+  background-color: #000000;
+  border-radius: 35px;
+  opacity: 0.7;
+}
+
+.landing-page .book-your-table-for {
+  position: absolute;
+  width: 740px;
+  height: 130px;
+  top: 67px;
+  left: 63px;
+  font-family: "Raleway", Helvetica;
+  font-weight: 700;
+  color: #ffca45;
+  font-size: 54px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.landing-page .you-can-book-a-table {
+  position: absolute;
+  width: 1002px;
+  top: 208px;
+  left: 66px;
+  font-family: "Raleway", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: 36px;
+}
+
+.landing-page .group-6 {
+  position: absolute;
+  width: 237px;
+  height: 52px;
+  top: 319px;
+  left: 63px;
+}
+
+.landing-page .overlap-group-6 {
+  position: relative;
+  width: 235px;
+  height: 52px;
+  background-color: #b13237;
+  border-radius: 26px;
+}
+
+.landing-page .text-wrapper-11 {
+  position: absolute;
+  width: 191px;
+  top: 7px;
+  left: 24px;
+  font-family: "Raleway", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 36px;
+  white-space: nowrap;
+}
+
+.landing-page .graphic-elements {
+  position: absolute;
+  width: 139px;
+  height: 133px;
+  top: 0;
+  left: 0;
+}
+
+.landing-page .BACKGROUND {
+  position: absolute;
+  width: 366px;
+  height: 272px;
+  top: 271px;
+  left: 1051px;
+}
+
+.landing-page .footer {
+  position: absolute;
+  width: 1475px;
+  height: 332px;
+  top: 3668px;
+  left: 1px;
+  background-color: transparent;
+}
+
+.landing-page .overlap-7 {
+  position: absolute;
+  width: 1459px;
+  height: 398px;
+  top: -49px;
+  left: -6px;
+}
+
+.landing-page .rectangle-4 {
+  position: absolute;
+  width: 1440px;
+  height: 380px;
+  top: 0;
+  left: 5px;
+}
+
+.landing-page .rectangle-5 {
+  position: absolute;
+  width: 1459px;
+  height: 82px;
+  top: 316px;
+  left: 0;
+  background-color: #b13237;
+}
+
+.landing-page .contact-us {
+  position: absolute;
+  width: 413px;
+  height: 203px;
+  top: 72px;
+  left: 416px;
+}
+
+.landing-page .text-wrapper-12 {
+  position: absolute;
+  height: 38px;
+  top: 0;
+  left: 0;
+  font-family: "Raleway", Helvetica;
+  font-weight: 600;
+  color: #ebe6d4;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.landing-page .address-stroke {
+  position: absolute;
+  width: 29px;
+  height: 29px;
+  top: 45px;
+  left: 0;
+}
+
+.landing-page .ruko-pamulang-permai {
+  position: absolute;
+  height: 112px;
+  top: 48px;
+  left: 41px;
+  font-family: "Raleway", Helvetica;
+  font-weight: 600;
+  color: #ebe6d4;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.landing-page .whatsapp-stroke {
+  position: absolute;
+  width: 29px;
+  height: 29px;
+  top: 169px;
+  left: 0;
+}
+
+.landing-page .text-wrapper-13 {
+  position: absolute;
+  height: 28px;
+  top: 175px;
+  left: 41px;
+  font-family: "Raleway", Helvetica;
+  font-weight: 600;
+  color: #ebe6d4;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.landing-page .working-hours-2 {
+  position: absolute;
+  width: 290px;
+  height: 105px;
+  top: 72px;
+  left: 947px;
+}
+
+.landing-page .vector-stroke-2 {
+  position: absolute;
+  width: 29px;
+  height: 29px;
+  top: 45px;
+  left: 2px;
+}
+
+.landing-page .monday-sunday {
+  position: absolute;
+  height: 56px;
+  top: 49px;
+  left: 40px;
+  font-family: "Raleway", Helvetica;
+  font-weight: 600;
+  color: #ebe6d4;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.landing-page .find-us-on {
+  position: absolute;
+  width: 295px;
+  height: 96px;
+  top: 194px;
+  left: 947px;
+}
+
+.landing-page .social-media {
+  position: absolute;
+  width: 293px;
+  height: 51px;
+  top: 45px;
+  left: 0;
+}
+
+.landing-page .instagram {
+  position: absolute;
+  width: 51px;
+  height: 51px;
+  top: 0;
+  left: 0;
+}
+
+.landing-page .gofood {
+  position: absolute;
+  width: 51px;
+  height: 51px;
+  top: 0;
+  left: 96px;
+}
+
+.landing-page .tiktok {
+  position: absolute;
+  width: 51px;
+  height: 51px;
+  top: 0;
+  left: 192px;
+}
+
+.landing-page .facebook {
+  position: absolute;
+  width: 51px;
+  height: 51px;
+  top: 239px;
+  left: 1233px;
+}
+
+.landing-page .logo {
+  position: absolute;
+  width: 220px;
+  height: 287px;
+  top: 43px;
+  left: 122px;
+  object-fit: cover;
+}
+
+.landing-page .p {
+  position: absolute;
+  height: 23px;
+  top: 329px;
+  left: 1041px;
+  font-family: "Raleway", Helvetica;
+  font-weight: 600;
+  color: #ebe6d4;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.landing-page .header {
+  position: absolute;
+  width: 1176px;
+  height: 52px;
+  top: 44px;
+  left: 120px;
+  background-color: transparent;
+  z-index: 1000;
+}
+
+.landing-page .logo-2 {
+  position: absolute;
+  width: 182px;
+  height: 52px;
+  top: 0;
+  left: 0;
+}
+
+.landing-page .overlap-group-7 {
+  position: absolute;
+  width: 155px;
+  height: 60px;
+  top: -1px;
+}
+
+.landing-page .avatar-kaizen-circle {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  top: 1px;
+  left: 0;
+  object-fit: cover;
+}
+
+.landing-page .kaizen {
+  position: absolute;
+  width: 107px;
+  height: 60px;
+  top: 0;
+  left: 48px;
+  object-fit: cover;
+}
+
+.landing-page .navbar {
+  position: absolute;
+  width: 589px;
+  height: 36px;
+  top: 11px;
+  left: 587px;
+  z-index: 1000;
+}
+
+.landing-page .testi {
+  display: absolute;
+  width: 200px;
+  height: 44px;
+  align-items: flex-start;
+  gap: 10px;
+  padding: 4px 33px 13px 24px;
+  position: absolute;
+  top: -4px;
+  left: 221px;
+  border-radius: 70px;
+}
+
+.landing-page .text-wrapper-14 {
+  position: absolute;
+  width: 158px;
+  margin-top: -1px;
+  margin-bottom: -8px;
+  margin-right: -15px;
+  font-family: "Raleway", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 3.2px;
+  line-height: 36px;
+}
+
+.landing-page .home {
+  display: absolute;
+  width: 118px;
+  height: 44px;
+  align-items: flex-start;
+  gap: 10px;
+  padding: 4px 33px 13px 28px;
+  position: absolute;
+  top: -4px;
+  left: -14px;
+  border-radius: 70px;
+}
+
+.landing-page .home-2 {
+  position: absolute;
+  width: fit-content;
+  margin-top: -1px;
+  margin-bottom: -8px;
+  margin-right: -1px;
+  transition: all 0.2s ease;
+  font-family: "Raleway", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 3.2px;
+  line-height: 36px;
+  white-space: nowrap;
+}
+
+.landing-page .menu-wrapper {
+  display: absolute;
+  width: 117px;
+  height: 44px;
+  align-items: flex-start;
+  gap: 10px;
+  padding: 4px 33px 13px 28px;
+  position: absolute;
+  top: -4px;
+  left: 104px;
+  border-radius: 70px;
+}
+
+.landing-page .text-wrapper-15 {
+  position: absolute;
+  width: fit-content;
+  margin-top: -1px;
+  margin-bottom: -8px;
+  margin-right: -2px;
+  font-family: "Raleway", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 3.2px;
+  line-height: 36px;
+  white-space: nowrap;
+}
+
+.landing-page .reserve-2 {
+  display: absolute;
+  width: 200px;
+  height: 44px;
+  align-items: flex-start;
+  gap: 10px;
+  padding: 4px 33px 13px 28px;
+  position: absolute;
+  top: -4px;
+  left: 421px;
+  border-radius: 70px;
+}
